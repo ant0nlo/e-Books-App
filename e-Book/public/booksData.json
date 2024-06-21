@@ -1,0 +1,292 @@
+[
+    {
+        "title": "Harry Potter and the Philosopher's Stone",
+        "author": {
+            "name": "J. K. Rowling",
+            "photo": "/assets/images/author_1.png",
+            "bio": "J.K. Rowling is a British author, best known for writing the Harry Potter fantasy series. The books have gained worldwide attention, won multiple awards, and sold more than 500 million copies."
+        },
+        "genre": "Children's Fantasy Novel",
+        "format": "333 pages, Kindle Edition",
+        "summary": "\"Turning the envelope over, his hand trembling, Harry saw a purple wax seal bearing a coat of arms; a lion, an eagle, a badger and a snake surrounding a large letter 'H'.\" Harry Potter has never even heard of Hogwarts when the letters start dropping on the doormat at number four, Privet Drive. Addressed in green ink on yellowish parchment with a purple seal, they are swiftly confiscated by his grisly aunt and uncle. Then, on Harry's eleventh birthday, a great beetle-eyed giant of a man called Rubeus Hagrid bursts in with some astonishing news: Harry Potter is a wizard, and he has a place at Hogwarts School of Witchcraft and Wizardry. An incredible adventure is about to begin!",
+        "cover_image": "/assets/images/book1.png",
+        "id": 1,
+        "chapters": [
+            { "title": "The Boy Who Lived", "summary": "Harry Potter introduces himself and is living with the Dursleys. Strange events start happening around him." },
+            { "title": "The Vanishing Glass", "summary": "Harry accidentally sets a boa constrictor free at the zoo." },
+            { "title": "The Letters from No One", "summary": "Harry begins receiving letters from Hogwarts, which his uncle tries to keep from him." },
+            { "title": "The Keeper of the Keys", "summary": "Hagrid arrives to take Harry to Hogwarts and tells him he is a wizard." },
+            { "title": "Diagon Alley", "summary": "Hagrid takes Harry shopping for school supplies in Diagon Alley." },
+            { "title": "The Journey from Platform Nine and Three-Quarters", "summary": "Harry boards the Hogwarts Express and meets Ron Weasley." },
+            { "title": "The Sorting Hat", "summary": "Harry is sorted into Gryffindor House." },
+            { "title": "The Potions Master", "summary": "Harry attends his first Potions class with Professor Snape." },
+            { "title": "The Midnight Duel", "summary": "Harry and Draco Malfoy have a midnight duel." }
+        ]
+    },
+    {
+        "title": "The Lord of the Rings",
+        "author": {
+            "name": "J.R.R. Tolkien",
+            "photo": "/assets/images/author_2.png",
+            "bio": "J.R.R. Tolkien was an English writer, poet, philologist, and university professor. He is best known for his high-fantasy works The Hobbit and The Lord of the Rings."
+        },
+        "genre": "Fantasy, Epic Adventure",
+        "format": "1178 pages, Kindle Edition",
+        "summary": "\"When Mr. Bilbo Baggins of Bag End announced that he would shortly be celebrating his eleventy-first birthday with a party of special magnificence, there was much talk and excitement in Hobbiton.\" The Lord of the Rings, a monumental fantasy epic by J.R.R. Tolkien, is renowned for its imaginative world-building and rich storytelling. It follows the journey of Frodo Baggins, a young hobbit, who embarks on a perilous quest to destroy the One Ring. Alongside a fellowship of allies, Frodo's journey takes him through Middle-earth, facing various challenges and battles against the dark lord Sauron's forces.",
+        "cover_image": "/assets/images/book2.png",
+        "id": 2,
+        "chapters": [
+            { "title": "A Long-expected Party", "summary": "Bilbo Baggins celebrates his eleventy-first birthday and disappears." },
+            { "title": "The Shadow of the Past", "summary": "Gandalf tells Frodo about the true nature of the One Ring." },
+            { "title": "Three is Company", "summary": "Frodo leaves the Shire with Sam and Pippin." },
+            { "title": "A Short Cut to Mushrooms", "summary": "The hobbits meet Farmer Maggot." },
+            { "title": "A Conspiracy Unmasked", "summary": "Merry and Pippin reveal they know about the Ring." },
+            { "title": "The Old Forest", "summary": "The hobbits enter the Old Forest and encounter Old Man Willow." },
+            { "title": "In the House of Tom Bombadil", "summary": "The hobbits are rescued by Tom Bombadil." },
+            { "title": "Fog on the Barrow-downs", "summary": "The hobbits are captured by a Barrow-wight and rescued by Tom Bombadil." },
+            { "title": "At the Sign of the Prancing Pony", "summary": "The hobbits arrive in Bree and meet Aragorn." }
+        ]
+    },
+    {
+        "title": "The Book Thief",
+        "author": {
+            "name": "Markus Zusak",
+            "photo": "/assets/images/author_3.png",
+            "bio": "Markus Zusak is an Australian writer of German origin. He is best known for his books The Book Thief and The Messenger."
+        },
+        "genre": "Historical Fiction",
+        "format": "552 pages, Kindle Edition",
+        "summary": "\"First the colors. Then the humans. That's usually how I see things. Or at least, how I try.\" The Book Thief, set in Nazi Germany, is narrated by Death and tells the story of Liesel Meminger, a young girl living with her foster parents. Liesel's love for books and words sustains her spirit as she faces the hardships of war and the painful reality of the Holocaust. This profoundly moving novel explores themes of mortality, the power of storytelling, and the resilience of the human heart in the face of the darkest circumstances.",
+        "cover_image": "/assets/images/book3.png",
+        "id": 3,
+        "chapters": [
+            { "title": "The Gravedigger's Handbook", "summary": "Liesel steals her first book at her brother's funeral." },
+            { "title": "The Shoulder Shrug", "summary": "Liesel steals a book from a Nazi book burning." },
+            { "title": "Mein Kampf", "summary": "Liesel befriends Max, a Jewish fist-fighter hiding in her basement." },
+            { "title": "The Standover Man", "summary": "Max writes a book for Liesel, recounting his own story." },
+            { "title": "The Whistler", "summary": "Liesel steals another book from the mayor's wife." },
+            { "title": "The Dream Carrier", "summary": "Liesel reads to Max while he is ill." },
+            { "title": "The Complete Duden Dictionary and Thesaurus", "summary": "Liesel receives a dictionary from the mayor's wife." },
+            { "title": "The Word Shaker", "summary": "Max writes another book for Liesel about the power of words." },
+            { "title": "The Last Human Stranger", "summary": "Liesel's story comes full circle as she writes her own book." }
+        ]
+    },
+    {
+        "title": "The Adventures of Huckleberry Finn",
+        "author": {
+            "name": "Mark Twain",
+            "photo": "/assets/images/author_4.png",
+            "bio": "Mark Twain, born Samuel Langhorne Clemens, was an American author and humorist. He is best known for his novels The Adventures of Tom Sawyer and its sequel, The Adventures of Huckleberry Finn."
+        },
+        "genre": "Classic, Adventure, American Literature",
+        "format": "366 pages, Kindle Edition",
+        "summary": "\"You don't know about me without you have read a book by the name of 'The Adventures of Tom Sawyer,' but that ain't no matter.\" The Adventures of Huckleberry Finn, written by Mark Twain, is a novel that portrays the adventurous life of a young boy named Huck Finn along the Mississippi River. Set in pre-Civil War America, the book explores themes of race, identity, and freedom as Huck and the runaway slave, Jim, embark on a journey of self-discovery. The novel is celebrated for its vivid narrative, colorful characters, and critical examination of societal attitudes and norms.",
+        "cover_image": "/assets/images/book4.png",
+        "id": 4,
+        "chapters": [
+            { "title": "Civilizing Huck", "summary": "Huck Finn introduces himself and is living with the Widow Douglas, who is trying to civilize him. Huck finds his new life restrictive." },
+            { "title": "Huck's Runaway", "summary": "Huck and Tom Sawyer meet to form a band of robbers, and Huck narrowly escapes a run-in with Miss Watson's slave, Jim." },
+            { "title": "The Widow's Lessons", "summary": "Huck learns about religion and manners from the Widow Douglas." },
+            { "title": "Jim's Escape", "summary": "Huck discovers that Jim, Miss Watson's slave, has run away after overhearing plans to sell him. Huck decides to help Jim escape." },
+            { "title": "The Island Camp", "summary": "Huck and Jim find refuge on Jackson Island, where they bond and plan their journey down the river." },
+            { "title": "The Floating House", "summary": "While exploring a floating house, Huck and Jim salvage goods and overhear news about their own search party." },
+            { "title": "The Grangerfords", "summary": "Huck meets the Grangerfords, who are embroiled in a bitter feud with another local family, the Shepherdsons." },
+            { "title": "The Duke and the Dauphin", "summary": "Huck and Jim rescue two con men who call themselves the Duke and the Dauphin. The con men take control of their raft and begin a series of scams along the river towns." },
+            { "title": "The Wilks Scam", "summary": "The Duke and the Dauphin impersonate the Wilks brothers to steal their inheritance but face challenges as the town becomes suspicious." }
+        ]
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": {
+            "name": "Harper Lee",
+            "photo": "/assets/images/author_5.png",
+            "bio": "Harper Lee, known for her landmark novel 'To Kill a Mockingbird', was an American author who explored themes of humanity and justice. Her work was deeply influenced by her upbringing in the Southern United States."
+        },
+        "genre": "Modern American Literature",
+        "format": "281 pages, Kindle Edition",
+        "summary": "Set in the 1930s Deep South, 'To Kill a Mockingbird' tells the story of Atticus Finch, a lawyer, who defends a black man accused of assaulting a white woman. Through the eyes of Atticus's children, Scout and Jem, Harper Lee explores themes of racial injustice, moral growth, and the loss of innocence. A classic of modern American literature, the novel challenges the social norms of its time and continues to resonate with readers today.",
+        "cover_image": "/assets/images/book5.png",
+        "id": 5,
+        "chapters": [
+            { "title": "Welcome to Maycomb", "summary": "Scout introduces Maycomb, her family, and her initial experiences with school." },
+            { "title": "The Radley Place", "summary": "Scout, Jem, and their friend Dill are fascinated and terrified by the mysterious Radley house and its reclusive occupant, Boo Radley." },
+            { "title": "Atticus Accepts the Case", "summary": "Atticus Finch agrees to defend Tom Robinson, a black man accused of raping a white woman, setting the stage for the central conflict of the novel." },
+            { "title": "Scout's Lessons", "summary": "Scout learns valuable lessons about understanding and compassion from her father and her experiences at school." },
+            { "title": "The Trial", "summary": "The trial of Tom Robinson takes place, where Atticus presents a strong defense, challenging the racial prejudices of the time." },
+            { "title": "The Verdict", "summary": "Despite clear evidence of his innocence, Tom is convicted, deeply affecting Scout and Jem and shaping their views on justice and fairness." },
+            { "title": "Aftermath and Understanding", "summary": "The aftermath of the trial affects the Finch family, and Scout continues to learn about morality and human nature." },
+            { "title": "Return to Radley Place", "summary": "The story culminates with an encounter that redefines the children's understanding of their mysterious neighbor, Boo Radley." }
+        ]
+    },
+    {
+        "title": "1984",
+        "author": {
+            "name": "George Orwell",
+            "photo": "/assets/images/author_6.png",
+            "bio": "George Orwell was an English novelist, essayist, journalist, and critic. He is best known for his novels '1984' and 'Animal Farm'."
+        },
+        "genre": "Dystopian, Political Fiction",
+        "format": "328 pages, Kindle Edition",
+        "summary": "\"It was a bright cold day in April, and the clocks were striking thirteen.\" In George Orwell's 1984, Winston Smith wrestles with oppression in Oceania, a place where the Party scrutinizes human actions with ever-watchful Big Brother. Defying a ban on individuality, Winston dares to express his thoughts in a diary and pursues a relationship with Julia. These criminal deeds bring Winston into the eye of the opposition, who then must reform the nonconformist. 1984 has come to be regarded as a warning against totalitarianism and the dangers of a dystopian society.",
+        "cover_image": "/assets/images/book6.png",
+        "id": 6,
+        "chapters": [
+            { "title": "The Principles of Newspeak", "summary": "Introduction to the language and its implications in the society of Oceania." },
+            { "title": "War is Peace", "summary": "The Party's slogan and its paradoxical meaning." },
+            { "title": "The Ministry of Truth", "summary": "Winston's job at the Ministry of Truth and the process of altering historical records." },
+            { "title": "Thoughtcrime", "summary": "The concept of thoughtcrime and its repercussions." },
+            { "title": "The Two Minutes Hate", "summary": "A daily ritual that channels citizens' emotions against Party enemies." },
+            { "title": "The Brotherhood", "summary": "The secret organization that opposes the Party." },
+            { "title": "Room 101", "summary": "The torture room where prisoners are subjected to their worst fears." },
+            { "title": "Doublethink", "summary": "The practice of holding two contradictory beliefs simultaneously." },
+            { "title": "The End of Individuality", "summary": "The Party's ultimate goal to eliminate personal identity and free thought." }
+        ]
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": {
+            "name": "F. Scott Fitzgerald",
+            "photo": "/assets/images/author_7.png",
+            "bio": "F. Scott Fitzgerald was an American novelist, widely regarded as one of the greatest writers of the 20th century. He is best known for his novel 'The Great Gatsby'."
+        },
+        "genre": "Classic, American Literature",
+        "format": "180 pages, Kindle Edition",
+        "summary": "\"In my younger and more vulnerable years my father gave me some advice that I've been turning over in my mind ever since.\" The Great Gatsby, F. Scott Fitzgerald's third book, stands as the supreme achievement of his career. This exemplary novel of the Jazz Age has been acclaimed by generations of readers. The story of the mysteriously wealthy Jay Gatsby and his love for the beautiful Daisy Buchanan, of lavish parties on Long Island at a time when, The New York Times remarked, \"gin was the national drink and sex the national obsession,\" it is an exquisitely crafted tale of America in the 1920s.",
+        "cover_image": "/assets/images/book7.png",
+        "id": 7,
+        "chapters": [
+            { "title": "Nick Carraway", "summary": "The narrator introduces himself and the world of West Egg." },
+            { "title": "The Mysterious Gatsby", "summary": "Nick learns about his enigmatic neighbor, Jay Gatsby." },
+            { "title": "The Party", "summary": "Nick attends one of Gatsby's lavish parties." },
+            { "title": "The Green Light", "summary": "The symbolic green light at the end of Daisy's dock." },
+            { "title": "Reunion", "summary": "Gatsby and Daisy reunite at Nick's house." },
+            { "title": "The Confrontation", "summary": "Gatsby and Tom Buchanan confront each other over Daisy." },
+            { "title": "The Tragedy", "summary": "The tragic events that lead to Gatsby's downfall." },
+            { "title": "The Funeral", "summary": "Gatsby's sparsely attended funeral." },
+            { "title": "Reflections", "summary": "Nick reflects on the events and their significance." }
+        ]
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": {
+            "name": "J.D. Salinger",
+            "photo": "/assets/images/author_8.png",
+            "bio": "J.D. Salinger was an American writer known for his novel 'The Catcher in the Rye'. He was a private person and became reclusive later in life."
+        },
+        "genre": "Classic, Coming-of-Age Fiction",
+        "format": "234 pages, Kindle Edition",
+        "summary": "\"If you really want to hear about it, the first thing you'll probably want to know is where I was born, and what my lousy childhood was like...\" The Catcher in the Rye is a classic novel that captures the essence of teenage disillusionment and rebellion. It is narrated by Holden Caulfield, a teenager from New York City, who recounts the events following his expulsion from a prestigious prep school. The novel explores themes of identity, belonging, loss, and connection.",
+        "cover_image": "/assets/images/book8.png",
+        "id": 8,
+        "chapters": [
+            { "title": "The Expulsion", "summary": "Holden Caulfield is expelled from Pencey Prep." },
+            { "title": "A Visit to Mr. Spencer", "summary": "Holden visits his history teacher before leaving Pencey." },
+            { "title": "A Fight with Stradlater", "summary": "Holden gets into a fight with his roommate, Stradlater." },
+            { "title": "The Journey Begins", "summary": "Holden leaves Pencey and heads to New York City." },
+            { "title": "A Night at the Edmont Hotel", "summary": "Holden spends a night at a seedy hotel in New York." },
+            { "title": "Meeting with Sally", "summary": "Holden meets his old girlfriend, Sally Hayes." },
+            { "title": "The Museum", "summary": "Holden visits the Museum of Natural History." },
+            { "title": "Phoebe's Carousel Ride", "summary": "Holden watches his sister Phoebe ride a carousel." },
+            { "title": "Reflections", "summary": "Holden reflects on his experiences and what he has learned." }
+        ]
+    },
+    {
+        "title": "One Hundred Years of Solitude",
+        "author": {
+            "name": "Gabriel Garcia Marquez",
+            "photo": "/assets/images/author_9.png",
+            "bio": "Gabriel Garcia Marquez was a Colombian novelist and one of the most significant authors of the 20th century. He is best known for his novel 'One Hundred Years of Solitude'."
+        },
+        "genre": "Magical Realism, Latin American Literature",
+        "format": "417 pages, Kindle Edition",
+        "summary": "\"Many years later, as he faced the firing squad, Colonel Aureliano Buendia was to remember that distant afternoon when his father took him to discover ice.\" One Hundred Years of Solitude tells the story of the rise and fall of the mythical town of Macondo through the history of the Buendia family. Rich and brilliant, it is a chronicle of life, death, and the tragicomedy of humankind. In the noble, ridiculous, beautiful, and tawdry story of the Buendia family, one sees all of humanity, just as in the history, myths, growth, and decay of Macondo, one sees all of Latin America.",
+        "cover_image": "/assets/images/book9.png",
+        "id": 9,
+        "chapters": [
+            { "title": "The Founding of Macondo", "summary": "Jose Arcadio Buendia and his wife Ursula found the town of Macondo." },
+            { "title": "The Birth of the Buendia Children", "summary": "The Buendia family grows with the birth of their children." },
+            { "title": "The Arrival of the Gypsies", "summary": "Gypsies arrive in Macondo, bringing with them wonders from the outside world." },
+            { "title": "The War", "summary": "Colonel Aureliano Buendia leads a war against the conservative government." },
+            { "title": "The Banana Plantation", "summary": "The arrival of a banana plantation changes the town's fortunes." },
+            { "title": "The Massacre", "summary": "Workers at the banana plantation are massacred, leading to social upheaval." },
+            { "title": "The Decline of Macondo", "summary": "The town begins to decline as the Buendia family falls apart." },
+            { "title": "The Flood", "summary": "A devastating flood hits Macondo, symbolizing the town's ultimate downfall." },
+            { "title": "The Last Buendia", "summary": "The final member of the Buendia family meets his fate, bringing the story full circle." }
+        ]
+    },
+    {
+        "title": "East of Eden",
+        "author": {
+            "name": "John Steinbeck",
+            "photo": "/assets/images/author_10.png",
+            "bio": "John Steinbeck was an American author and Nobel Prize winner. He is best known for his novels 'The Grapes of Wrath' and 'East of Eden'."
+        },
+        "genre": "Classic, American Literature",
+        "format": "601 pages, Kindle Edition",
+        "summary": "\"The Salinas Valley is in Northern California. It is a long narrow swale between two ranges of mountains.\" East of Eden is a novel that explores the intricate web of relationships in the Trask and Hamilton families. Set in the rich farmland of California's Salinas Valley, this sprawling and often brutal novel follows the intertwined destinies of two families - the Trasks and the Hamiltons - whose generations helplessly reenact the fall of Adam and Eve and the poisonous rivalry of Cain and Abel.",
+        "cover_image": "/assets/images/book10.png",
+        "id": 10,
+        "chapters": [
+            { "title": "The Hamilton Family", "summary": "Introduction to the Hamilton family and their life in the Salinas Valley." },
+            { "title": "The Trask Family", "summary": "Introduction to the Trask family and their move to the Salinas Valley." },
+            { "title": "Cathy Ames", "summary": "The story of Cathy Ames, a manipulative and evil woman who marries Adam Trask." },
+            { "title": "The Birth of the Twins", "summary": "Cathy gives birth to twins, Cal and Aron." },
+            { "title": "Cathy's Departure", "summary": "Cathy leaves Adam and the twins, and begins a new life as Kate." },
+            { "title": "The Boys Grow Up", "summary": "Cal and Aron grow up, each dealing with their own struggles." },
+            { "title": "The Truth Revealed", "summary": "Cal learns the truth about his mother, and Aron learns about his own identity." },
+            { "title": "The Final Confrontation", "summary": "The climax of the story as the characters confront their past and their destinies." },
+            { "title": "A New Beginning", "summary": "The story concludes with a sense of hope and redemption for the surviving characters." }
+        ]
+    },
+    {
+        "title": "Brave New World",
+        "author": {
+            "name": "Aldous Huxley",
+            "photo": "/assets/images/author_11.png",
+            "bio": "Aldous Huxley was an English writer and philosopher. He is best known for his novel 'Brave New World'."
+        },
+        "genre": "Dystopian Fiction",
+        "format": "311 pages, Kindle Edition",
+        "summary": "\"A squat grey building of only thirty-four stories.\" Brave New World, a prophetic novel by Aldous Huxley, is a masterful portrayal of a future society driven by technological and scientific advancements. It presents a chilling dystopia where humanity is controlled through conditioning and genetic engineering, leading to a superficially content society devoid of personal freedom and deep human connections. The novel explores themes of control, happiness, and the human spirit's resistance in the face of a dehumanized world.",
+        "cover_image": "/assets/images/book11.png",
+        "id": 11,
+        "chapters": [
+            { "title": "The World State", "summary": "Introduction to the World State and its principles." },
+            { "title": "The Hatchery", "summary": "The process of creating and conditioning human beings in the World State." },
+            { "title": "Bernard Marx", "summary": "Introduction to Bernard Marx, an Alpha who feels out of place in the World State." },
+            { "title": "Lenina Crowne", "summary": "Bernard's relationship with Lenina Crowne and their trip to the Savage Reservation." },
+            { "title": "John the Savage", "summary": "Introduction to John, a 'savage' raised on the Reservation." },
+            { "title": "The Return to London", "summary": "Bernard brings John and his mother Linda back to London." },
+            { "title": "The Conflict", "summary": "John's struggle to reconcile his beliefs with the World State's values." },
+            { "title": "The Soma Holiday", "summary": "The use of the drug soma to maintain social order and happiness." },
+            { "title": "The Ultimate Sacrifice", "summary": "John's tragic end and the implications for the World State." }
+        ]
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": {
+            "name": "Jane Austen",
+            "photo": "/assets/images/author_12.png",
+            "bio": "Jane Austen was an English novelist known primarily for her six major novels, which interpret, critique and comment upon the British landed gentry at the end of the 18th century. Her most famous work is 'Pride and Prejudice'."
+        },
+        "genre": "Classic, Romance",
+        "format": "432 pages, Kindle Edition",
+        "summary": "\"It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.\" Pride and Prejudice, Jane Austen's timeless romantic comedy, critiques the nature of relationships in 19th-century England. It follows the story of the Bennet family, particularly Elizabeth Bennet, as they navigate issues of marriage, morality, and misunderstandings. Austen's novel explores the prejudice that often obscures the truth and the pride that prevents the growth of love.",
+        "cover_image": "/assets/images/book12.png",
+        "id": 12,
+        "chapters": [
+            { "title": "The Bennet Family", "summary": "Introduction to the Bennet family and their social standing." },
+            { "title": "Mr. Bingley and Mr. Darcy", "summary": "The arrival of Mr. Bingley and Mr. Darcy in the neighborhood." },
+            { "title": "The Meryton Ball", "summary": "Elizabeth meets Mr. Darcy for the first time and forms her initial impressions." },
+            { "title": "Jane's Illness", "summary": "Jane falls ill while visiting the Bingleys, leading to her stay at Netherfield." },
+            { "title": "Mr. Collins' Proposal", "summary": "Mr. Collins proposes to Elizabeth, who rejects him." },
+            { "title": "The Arrival of Mr. Wickham", "summary": "Mr. Wickham arrives and shares his story about Mr. Darcy, influencing Elizabeth's opinion." },
+            { "title": "The Netherfield Ball", "summary": "Elizabeth's interactions with Mr. Darcy at the ball deepen her prejudices against him." },
+            { "title": "Darcy's Letter", "summary": "Mr. Darcy writes a letter explaining his actions, leading Elizabeth to reevaluate her judgments." },
+            { "title": "Elizabeth and Darcy Reunite", "summary": "Elizabeth and Mr. Darcy overcome their misunderstandings and develop a mutual respect and love." }
+        ]
+    }
+]
+
+
+
