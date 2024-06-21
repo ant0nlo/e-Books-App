@@ -43,29 +43,6 @@ This project is a React-based web application for managing and viewing a collect
 
    This will create a \`build\` directory with the production build of the application.
 
-## Project Structure
-
-\`\`\`
-e-Book-App/
-├── public/
-│   ├── assets/
-│   │   └── images/
-│   ├── booksData.json
-│   ├── index.html
-│   └── script.js
-├── src/
-│   ├── components/
-│   │   ├── bookPage/
-│   │   ├── contactPage/
-│   │   ├── homePage/
-│   │   └── libraryPage/
-│   ├── App.js
-│   ├── index.css
-│   └── index.js
-├── package.json
-└── README.md
-\`\`\`
-
 ### Key Files and Directories
 
 - **public/**: Contains the public assets and HTML template.
