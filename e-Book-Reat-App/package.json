@@ -1,0 +1,43 @@
+{
+    "name": "my-react-app",
+    "version": "1.0.0",
+    "description": "E-Books web application",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "react-scripts --openssl-legacy-provider start",
+        "build": "react-scripts --openssl-legacy-provider build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject",
+        "start:dev": "react-scripts --openssl-legacy-provider start"
+    },
+    "dependencies": {
+        "@emotion/react": "^11.11.4",
+        "@emotion/styled": "^11.11.5",
+        "@fortawesome/free-solid-svg-icons": "^6.5.2",
+        "@fortawesome/react-fontawesome": "^0.2.2",
+        "@mui/material": "^5.15.20",
+        "axios": "^1.7.2",
+        "bootstrap": "^5.3.3",
+        "react": "^18.3.1",
+        "react-bootstrap": "^2.10.3",
+        "react-dom": "^18.3.1",
+        "react-material-ui-carousel": "^3.4.2",
+        "react-player": "^2.16.0",
+        "react-router-dom": "^5.3.4"
+    },
+    "devDependencies": {
+        "react-scripts": "4.0.3"
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    }
+}
